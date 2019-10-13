@@ -1,0 +1,40 @@
+body{
+    width: 100%;
+    height:100%;
+    background-color:red;
+    background-repeat: none;
+    background-size: cover;
+    color: #fff;
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    margin-top: 30px;
+    padding: 20px;
+    max-width:600px;
+    width: 90%;
+    margin: 0 auto;
+}
+
+h3{
+ text-align: center;
+}
+
+ input,textarea{
+    width: 80%;
+    padding: 10px;
+    margin-top: 10px;
+    background-color: #cbd0d4;
+    border: none;
+ }
+
+.contact-us input[type="submit"]{
+    width: 83%;
+    color: #1f9ce0;
+    background-color: #fff;
+}
+
+.contact-us input[type="submit"]:hover{
+    color: red;
+}
