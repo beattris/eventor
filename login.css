@@ -13,15 +13,25 @@ body{
     padding: 0;
     }
 
-h1, h3{
-color: #000;
-text-transform: uppercase;
-letter-spacing: 3px;
+.container{
+    margin: auto;
+    max-width: 700px;
+    padding: 20px;
 }
 
-.container{
-    margin-top: 0;
-    padding: 20px;
+
+h1{
+    color: #000;
+    text-transform: uppercase;
+    letter-spacing: 0.1rem;
+    font-size: 1rem;
+}
+
+h3{
+    color: #000;
+    text-transform: capitalize;
+    letter-spacing: 0.1rem;
+    font-size: 1rem;
 }
 
 input[type="email"], input[type="password"]{
@@ -57,4 +67,10 @@ p{
 a{
     text-decoration: none;
     color: green;
+}
+
+@media only screen and (min-width:400px){
+    h1, h3{
+        font-size: 2rem;
+    }
 }
