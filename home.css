@@ -8,6 +8,10 @@ body{
     color: #fff;
 }
 
+body .home, li .home{
+    background-color: black;
+}
+
 .container{
     margin: auto;
     padding: 20px;
