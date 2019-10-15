@@ -10,6 +10,7 @@ body{
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
+    background-position: 100vh;
     height: 100%;
     margin: 0;
     padding: 0;
