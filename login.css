@@ -9,6 +9,8 @@ body{
     background-image:linear-gradient(100deg, #e63030 50%,  #fff 50%);
     background-repeat: no-repeat;
     background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
     margin: 0;
     padding: 0;
     }
