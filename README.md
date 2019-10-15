@@ -1,2 +1,2 @@
-#My Dummy Website
+#MyDummyWebsite
 This is self-project website built with HTML & CSS, no BootStrap, no JavaScript. Just a test of what I've learnt so far!
