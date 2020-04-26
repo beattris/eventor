@@ -1,0 +1,22 @@
+{
+  "name": "eventor",
+  "version": "1.3.2",
+  "description": "an example app",
+  "main": "home.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beattris/eventor.git"
+  },
+  "keywords": [
+    "eventor"
+  ],
+  "author": "Tris (beattris)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/beattris/eventor/issues"
+  },
+  "homepage": "https://github.com/beattris/eventor#readme"
+}
